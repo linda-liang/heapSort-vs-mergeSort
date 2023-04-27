@@ -1,0 +1,3 @@
+/Users/lindaliang/Desktop/cop3530/proj3/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/Users/lindaliang/Desktop/cop3530/proj3/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/lindaliang/Desktop/cop3530/proj3/cmake-build-debug/CMakeFiles/Project3.dir
